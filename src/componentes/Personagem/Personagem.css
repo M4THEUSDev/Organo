@@ -1,20 +1,21 @@
-.colaborador {
+.personagem {
     width: 280px;
 }
 
-.colaborador .cabecalho {
+.personagem .cabecalho {
     background-color: #F0F0F0;
     border-radius: 10px 10px 0px 0px;
 }
 
-.colaborador img {
-    width: 100px;
+.personagem img {
+    width: 120px;
+    height: 120px;
     border-radius: 50%;
     position: relative;
     bottom: -50px;
 }
 
-.colaborador .rodape {
+.personagem .rodape {
     background: #FFFFFF;
     box-shadow: 5px 5px 15px rgba(0,0,0, 0.08);
     border-radius: 0px 0px 10px 10px;
@@ -22,8 +23,13 @@
     padding-bottom: 40px;
 }
 
-.colaborador .rodape h4 {
-    color: #6278F7;
-    font-size: 0.88rem;
+.personagem .rodape h4 {
+    color: #7F0909;
+    font-size: 1rem;
+    line-height: 22px;
+}
+
+.personagem .rodape h5 {
+    font-size: 0.95rem;
     line-height: 22px;
 }

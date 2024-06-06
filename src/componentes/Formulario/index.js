@@ -7,20 +7,20 @@ import { useState } from 'react';
 const Formulario = (props) => {
 
     const [nome, setNome] = useState('')
-    const [cargo, setCargo] = useState('')
+    const [funcao, setFuncao] = useState('')
     const [imagem, setImagem] = useState('')
     const [time, setTime] = useState('')
 
     const aoSalvar = (evento) => {
         evento.preventDefault();
-        props.aoColaboradorCadastrado({
+        props.aoPersonagemCadastrado({
             nome,
-            cargo,
+            funcao,
             imagem,
             time
         })
         setNome('')
-        setCargo('')
+        setFuncao('')
         setImagem('')
         setTime('')
     }
@@ -28,7 +28,7 @@ const Formulario = (props) => {
     return (
         <section className="formulario">
             <form onSubmit={aoSalvar}>
-                <h2>Preencha os dados para criar o card do colaborador</h2>
+                <h2>Preencha os dados para criar o card do seu personagem favorito</h2>
                 <CampoTexto 
                         obrigatorio="True" 
                         label="Nome" 
@@ -38,10 +38,10 @@ const Formulario = (props) => {
                 />
                 <CampoTexto 
                         obrigatorio="True" 
-                        label="Cargo" 
-                        placeholder="Digite seu cargo" 
-                        valor={cargo}
-                        aoAlterado={valor => setCargo(valor)}
+                        label="Função" 
+                        placeholder="Digite a função por exemplo: Professor" 
+                        valor={funcao}
+                        aoAlterado={valor => setFuncao(valor)}
                 />
                 <CampoTexto 
                         label="Imagem" 
