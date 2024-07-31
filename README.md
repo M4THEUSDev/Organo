@@ -1,70 +1,54 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1> Organo - Harry Potter  🚀🪐 </h1>
 
-## Available Scripts
+<p>O Sistema Organo foi desenvolvido como parte de uma aula prática de React. O principal objetivo deste projeto é introduzir e praticar conceitos essenciais de React, como:
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## :dizzy: Tecnologias utilizadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<div>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+</div>
 
-### `npm test`
+## :computer: Visão Geral do Projeto
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Interface do Usuário
 
-### `npm run build`
+<img src="SpaceApp.png"  alt="Imagem do SpaceApp." width="1300">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🧙‍♂️ Temática: Harry Potter
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+• Criei um banner com fotos dos bruxos de Hogwarts.
+• Desenvolvi um formulário para inserção de cards, cada um representando os bruxos mais importantes de cada casa.
+• Organizei as casas (Grifinória , Sonserina, Corvinal e Lufa-Lufa), cada uma com suas cores temáticas baseadas na série.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :hammer: Caracteristicas
 
-### `npm run eject`
+• Componentes estáticos e dinâmicos
+• Props
+• Desestruturação de componentes
+• Utilização de uma biblioteca declarativa
+• Refatoração
+• Métodos de array como map e filter
+• Criação de objetos para representar times e cores de times
+• Implementação do MockAPI utilizando json-server para simular dados da API.
+• Adição de useEffect e os métodos GET, DELETE e PATCH.</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## :mag: Demonstração
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Para uma experiência completa e visual do projeto em funcionamento, você pode acessar a demonstração interativa do projeto, [clique aqui.](https://space-app-red.vercel.app/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## :open_file_folder: Como Utilizar
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Clone o repositório em seu ambiente de desenvolvimento.
+2. Abra o arquivo index.html em seu navegador preferido.
 
-## Learn More
+## :student: Autor
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este repositório contém o projeto SpaceApp, desenvolvido no curso proporcionado pela Oracle em parceria com a Alura.
