@@ -50,4 +50,4 @@ Para uma experiência completa e visual do projeto em funcionamento, você pode 
 
 ## :student: Autor
 
-Este repositório contém o projeto SpaceApp, desenvolvido no curso proporcionado pela Oracle em parceria com a Alura.
+Este repositório contém o projeto Organo, desenvolvido no curso proporcionado pela Oracle em parceria com a Alura.
