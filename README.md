@@ -1,5 +1,5 @@
 
-<h1> Organo - Harry Potter  🚀🪐 </h1>
+<h1> Organo - Harry Potter  🧙‍♂️ </h1>
 
 <p>O Sistema Organo foi desenvolvido como parte de uma aula prática de React. O principal objetivo deste projeto é introduzir e praticar conceitos essenciais de React, como:
 
