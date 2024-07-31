@@ -13,14 +13,13 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 </div>
 
 ## :computer: Visão Geral do Projeto
 
 ### Interface do Usuário
 
-<img src="SpaceApp.png"  alt="Imagem do SpaceApp." width="1300">
+<img src="Organo.png"  alt="Imagem do Organo." width="1300">
 
 🧙‍♂️ Temática: Harry Potter
 
@@ -42,7 +41,7 @@
 
 ## :mag: Demonstração
 
-Para uma experiência completa e visual do projeto em funcionamento, você pode acessar a demonstração interativa do projeto, [clique aqui.](https://space-app-red.vercel.app/)
+Para uma experiência completa e visual do projeto em funcionamento, você pode acessar a demonstração interativa do projeto, [clique aqui.](https://organo-murex-phi.vercel.app/)
 
 ## :open_file_folder: Como Utilizar
 
